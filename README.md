@@ -2,6 +2,13 @@
 
 Lets make a text editor.  Start adding features as you see fit.  Lets see how many we can do, and how nicely we can do them.
 
+## Run
+
+```
+npm i
+npm run dev
+```
+
 ## Features
 
 - [ ] Basic text input
